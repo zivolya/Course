@@ -33,5 +33,3 @@ var guess = prompt ("Угадайте букву или нажмите отме�
     }
 alert (answerarray.join(" "));
 alert ("Отлично! Было загадано слово " + word);
-
-dvsavvvvvvvvvvvvvvvvvvvvvv
